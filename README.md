@@ -4,3 +4,6 @@
 
 
 [MOM WEEK 34 STORY](https://ftarakdjian.github.io/infovis/MOMWEEK34.html)
+
+
+[MI TIMELINE](https://ftarakdjian.github.io/infovis/MiTimeline.html)
