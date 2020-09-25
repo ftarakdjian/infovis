@@ -11,3 +11,5 @@
 
 [primera prueba tp datos personales](https://ftarakdjian.github.io/infovis/datospersonalesprueba.html)
 
+
+[tp datos personales segunda prueba](https://ftarakdjian.github.io/infovis/tpfinal.html)
