@@ -7,3 +7,7 @@
 
 
 [MI TIMELINE](https://ftarakdjian.github.io/infovis/MiTimeline.html)
+
+
+[primera prueba tp datos personales](https://ftarakdjian.github.io/infovis/datospersonalesprueba.html)
+
