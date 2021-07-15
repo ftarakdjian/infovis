@@ -16,4 +16,4 @@
 
 [proyecto1](https://ftarakdjian.github.io/infovis/proyecto1.html)
 
-[proyecto final]((https://ftarakdjian.github.io/infovis/proyectofinal.html)
+[proyecto final](https://ftarakdjian.github.io/infovis/proyectofinal.html)
